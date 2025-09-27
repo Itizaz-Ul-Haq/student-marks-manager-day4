@@ -1,7 +1,7 @@
 🎓 Student Marks Manager (Day 4 Project)<br><br>
 📌 Overview
 <br><br>
-     This is my Day 4 Python Project: a simple Student Marks Manager.<br>
+     This is my Day 4 Python Project: a simple Student Marks Manager.<br><br>
 The program stores students’ marks in a dictionary, calculates their average marks, and allows adding new students dynamically.<br>
 
 It’s a beginner-friendly project that demonstrates:<br>
