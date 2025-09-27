@@ -2,24 +2,24 @@
 📌 Overview
 
 This is my Day 4 Python Project: a simple Student Marks Manager.
-The program stores students’ marks in a dictionary, calculates their average marks, and allows adding new students dynamically.
+The program stores students’ marks in a dictionary, calculates their average marks, and allows adding new students dynamically.<br>
 
-It’s a beginner-friendly project that demonstrates:
+It’s a beginner-friendly project that demonstrates:<br>
 
-Dictionaries (for storing data)
+Dictionaries (for storing data)<br>
 
-Functions (for modular code)
+Functions (for modular code)<br>
 
-Loops (for iterating over student data)
+Loops (for iterating over student data)<br>
 
-User Input (for adding new students)
+User Input (for adding new students)<br><br>
 
 🛠️ Features
-
-✅ Store marks of multiple students
-✅ Calculate each student’s average marks
-✅ Add a new student with their marks
-✅ Display updated results
+<br><br>
+✅ Store marks of multiple students<br>
+✅ Calculate each student’s average marks<br>
+✅ Add a new student with their marks<br>
+✅ Display updated results<br>
 
 📂 Project Structure
 
@@ -28,7 +28,7 @@ Student-Marks-Manager/
 ├── student_manager.py   # Main Python code
 ├── README.md            # Project Documentation
 
-🚀 How It Works
+🚀 How It Works<br>
 
 1. The program starts with a dictionary of students and their marks:
 Students = {
@@ -36,60 +36,60 @@ Students = {
     "Ahmad": [93, 95, 87, 90, 89, 86],
     "Qasim": [92, 84, 93, 91, 79, 92]
 }
-
-2. It calculates the average marks of each student using a function:
+<br>
+2. It calculates the average marks of each student using a function:<br>
 def calculate_average(marks):
-    return sum(marks) / len(marks)
-3. It prints all student averages.
+    return sum(marks) / len(marks)<br>
+3. It prints all student averages.<br>
 
-4. The user can add a new student and their marks.
+4. The user can add a new student and their marks.<br>
 
-5. The program then displays the updated list with averages.
+5. The program then displays the updated list with averages.<br><br>
 
 ▶️ Example Output
-
+<br><br>
 --- Student Averages ---
 Itizaz average marks are:  91.83
 Ahmad average marks are:  90.00
 Qasim average marks are:  88.50
 
-Enter new student's name: Ali
-Enter marks of Ali separated by spaces: 95 90 92 88 91
+Enter new student's name: Ali<br>
+Enter marks of Ali separated by spaces: 95 90 92 88 91<br>
 
-Student 'Ali' has been added successfully!
+Student 'Ali' has been added successfully!<br>
 
 --- Student Averages ---
 Itizaz average marks are:  91.83
 Ahmad average marks are:  90.00
 Qasim average marks are:  88.50
 Ali average marks are:  91.20
+<br>
+📖 What I Learned<br><br>
 
-📖 What I Learned
+How to use dictionaries for storing structured data<br>
 
-How to use dictionaries for storing structured data
+Writing functions for reusability<br>
 
-Writing functions for reusability
+Iterating with for loops<br>
 
-Iterating with for loops
+Taking and processing user input<br>
 
-Taking and processing user input
-
-This project improved my problem-solving and code organization skills in Python.
-
+This project improved my problem-solving and code organization skills in Python.<br>
+<br><br>
 🔮 Future Improvements
-
+<br>
 Here are some ideas to make the project more advanced in the future:
+<br>
+📊 Store data in CSV or JSON files so that student records persist even after the program closes.<br>
 
-📊 Store data in CSV or JSON files so that student records persist even after the program closes.
+📝 Add student editing and deletion options (not just adding new ones).<br>
 
-📝 Add student editing and deletion options (not just adding new ones).
+📈 Show highest, lowest, and overall class average for better insights.<br>
 
-📈 Show highest, lowest, and overall class average for better insights.
+💻 Add a simple GUI (Graphical User Interface) using Tkinter or PyQt.<br>
 
-💻 Add a simple GUI (Graphical User Interface) using Tkinter or PyQt.
+🌐 Convert it into a web app using Flask/Django for online student management.<br>
 
-🌐 Convert it into a web app using Flask/Django for online student management.
-
-🔐 Add authentication so only teachers/admins can modify student data.
+🔐 Add authentication so only teachers/admins can modify student data.<br>
 
 ✨ Day 4 complete! Onwards to Day 5 🚀
