@@ -1,6 +1,6 @@
-🎓 Student Marks Manager (Day 4 Project)
+🎓 Student Marks Manager (Day 4 Project)<br><br>
 📌 Overview
-
+<br><br>
 This is my Day 4 Python Project: a simple Student Marks Manager.
 The program stores students’ marks in a dictionary, calculates their average marks, and allows adding new students dynamically.<br>
 
@@ -21,16 +21,16 @@ User Input (for adding new students)<br><br>
 ✅ Add a new student with their marks<br>
 ✅ Display updated results<br>
 
-📂 Project Structure
+📂 Project Structure<br><br>
 
 Student-Marks-Manager/
 │
 ├── student_manager.py   # Main Python code
-├── README.md            # Project Documentation
+├── README.md            # Project Documentation<br>
 
 🚀 How It Works<br>
 
-1. The program starts with a dictionary of students and their marks:
+1. The program starts with a dictionary of students and their marks:<br>
 Students = {
     "Itizaz": [93, 93, 89, 91, 95, 90],
     "Ahmad": [93, 95, 87, 90, 89, 86],
@@ -52,7 +52,7 @@ def calculate_average(marks):
 Itizaz average marks are:  91.83
 Ahmad average marks are:  90.00
 Qasim average marks are:  88.50
-
+<br>
 Enter new student's name: Ali<br>
 Enter marks of Ali separated by spaces: 95 90 92 88 91<br>
 
@@ -77,7 +77,7 @@ Taking and processing user input<br>
 This project improved my problem-solving and code organization skills in Python.<br>
 <br><br>
 🔮 Future Improvements
-<br>
+<br><br>
 Here are some ideas to make the project more advanced in the future:
 <br>
 📊 Store data in CSV or JSON files so that student records persist even after the program closes.<br>
