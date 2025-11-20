@@ -1,4 +1,4 @@
-🎓 Student Marks Manager (Day 4 Project)<br><br>
+🎓 Student Marks Manager <br><br>
 📌 Overview
 <br><br>
      This is my Day 4 Python Project: a simple Student Marks Manager.<br><br>
