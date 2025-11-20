@@ -92,4 +92,3 @@ Here are some ideas to make the project more advanced in the future:
 
 🔐 Add authentication so only teachers/admins can modify student data.<br>
 
-✨ Day 4 complete! Onwards to Day 5 🚀
